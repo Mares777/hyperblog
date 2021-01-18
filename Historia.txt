@@ -1,3 +1,4 @@
 Esta es la historia de Marcia Montoya
 Ella está aprendiendo git
 En cámara parece alta pero realmente no es tan alta
+Está intentando realizar commits con vi editor
