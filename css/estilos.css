@@ -1,5 +1,14 @@
 body
 {
     text-align: center;
+<<<<<<< HEAD
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Helvetica, sans-serif;
+=======
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#cabecera
+{
+    background: pink;
+>>>>>>> cabecera
 }
